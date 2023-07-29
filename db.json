@@ -28,6 +28,18 @@
       "password": "$2a$10$iDpaBNwm9vVUM3gxygB1h.p1fkaajpCmYa3SSb7mCqPd3LkB0wF72",
       "fName": "namkhang",
       "id": 5
+    },
+    {
+      "email": "sandesh@gmail.com",
+      "password": "$2a$10$nVuPLfSTgaJhLrO1ubAAt.Gev/.xMFUpLM/5xf94Nx5Z6k.cTO8WO",
+      "fName": "ascascdasd",
+      "id": 6
+    },
+    {
+      "email": "sandes@sa.as",
+      "password": "$2a$10$UBWq4C3NCyfenxMc4o9TvOjXx88Cz..IuP2A/H2uVnuSKIa9j8qWK",
+      "fName": "asdasd",
+      "id": 7
     }
   ],
   "products": [
