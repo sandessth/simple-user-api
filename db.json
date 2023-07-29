@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "gorakh1@gmail.com",
+      "password": "$2a$10$FMMEIUDB3nmLY0tVOiMPjOn2AZga7FwK54BubrelOpzSWRcaNhCum",
+      "id": 1,
+      "fname": "gorakh"
+    },
+    {
+      "email": "san@gmail.com",
+      "password": "$2a$10$i11xN6di/epb18bKn20Yo.RTYHUjN4qlHtpV5tuUIN4KknJJQzou2",
+      "id": 2
+    },
+    {
+      "email": "sands@gmail.com",
+      "password": "$2a$10$.RXr4lE2Yjc9htFEfKcMA.14AY195wUHJ1HPdJYYir6v1PQ6t1zS.",
+      "fname": "sandesh",
+      "id": 3
+    },
+    {
+      "email": "san@san.san",
+      "password": "$2a$10$da3I94yiQK.URO7yQ40/0.oNsRHnRPnrS94/Kjh7J2wSxT9dywery",
+      "fName": "sdasd",
+      "id": 4
+    },
+    {
+      "email": "nam@gmail.com",
+      "password": "$2a$10$iDpaBNwm9vVUM3gxygB1h.p1fkaajpCmYa3SSb7mCqPd3LkB0wF72",
+      "fName": "namkhang",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "book1"
+    },
+    {
+      "name": "book2"
+    }
+  ]
+}
